@@ -1,0 +1,73 @@
+[
+  {
+    "Song Name" : "Cocoon",
+    "Year Released" : "2016",
+    "Artist(s)" : "Milky Chance",
+    "Genre(s)" : ["Indie"]
+  },
+  
+  {
+    "Song Name" : "Outside",
+    "Year Released" : "2021",
+    "Artist(s)" : "Meek MIll",
+    "Genre(s)" : ["Rap"]
+  },
+  
+  {
+    "Song Name" : "A$AP FOrever",
+    "Year Released" : "2018",
+    "Artist(s)" : "A$AP Rocky",
+    "Genre(s)" : ["Rap"]
+  },
+  
+  {
+    "Song Name" : "Brazil",
+    "Year Released" : "2015",
+    "Artist(s)" : "Declan Mckenna",
+    "Genre(s)" : ["Indie"]
+  },
+  
+  {
+    "Song Name" : "FLight 22",
+    "Year Released" : "2018",
+    "Artist(s)" : "Kali Uchis",
+    "Genre(s)" : ["R and B"]
+  },
+  
+  {
+    "Song Name" : "Psycho",
+    "Year Released" : "2019",
+    "Artist(s)" : "Dave",
+    "Genre(s)" : ["Rap"]
+  },
+  
+  {
+    "Song Name" : "Enviornment",
+    "Year Released" : "2019",
+    "Artist(s)" : "Dave",
+    "Genre(s)" : ["Rap"]
+  },
+  
+  {
+    "Song Name" : "I Feel It Coming",
+    "Year Released" : "2016",
+    "Artist(s)" : "The Weeknd",
+    "Genre(s)" : ["Pop"]
+  },
+  
+  {
+    "Song Name" : "Starboy",
+    "Year Released" : "2016",
+    "Artist(s)" : "The Weeknd",
+    "Genre(s)" : ["Pop"]
+  },
+  
+  {
+    "Song Name" : "Reminder",
+    "Year Released" : "2016",
+    "Artist(s)" : "The Weeknd",
+    "Genre(s)" : ["Pop"]
+  }
+  
+  
+]
